@@ -24,7 +24,8 @@
 
             <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
 
-              <li><a href="#">Home</a></li>
+              <li><a href="index.php">Home</a></li>
+              <li><a href="formulario.php">Formulario</a></li>
 
           </ul>
 
